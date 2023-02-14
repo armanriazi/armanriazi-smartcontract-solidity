@@ -1,0 +1,12 @@
+[submodule "armanriazi-ethereum-market"]
+	path = armanriazi-ethereum-market
+	url = https://github.com/armanriazi/armanriazi-ethereum-market
+[submodule "armanriazi-ethereum-marketplace-in-energy"]
+	path = armanriazi-ethereum-marketplace-in-energy
+	url = https://github.com/armanriazi/armanriazi-ethereum-marketplace-in-energy
+[submodule "armanriazi-ethereum-in-real-estate"]
+	path = armanriazi-ethereum-in-real-estate
+	url = https://github.com/armanriazi/armanriazi-ethereum-in-real-estate
+
+
+	
